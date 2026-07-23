@@ -64,4 +64,9 @@ To run this project locally:
    
 ---
 
-## 🌌 If you want to enjoy the experience of our project, simply check: <br>     [here](https://hondagalmad.github.io/stellar_compass/) (Music Free Version) <br>       Or [here](https://nourelhouda101.github.io/stellar_compass/) (Version with background Music)
+## 🌌 Experience the Project
+
+Check out the live demo:
+
+- 🔇 [Music-Free Version](https://hondagalmad.github.io/stellar_compass/)
+- 🎵 [Version with Background Music](https://nourelhouda101.github.io/stellar_compass/)
